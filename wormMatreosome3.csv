@@ -1,0 +1,749 @@
+IDmethod,ECM,Matrisome Division,Matrisome Category,WormBase ID,symbol,sequence
+Orthology,Basement membrane,Core matrisome,Collagens,WBGene00000527,cle-1,C36B1.1
+Orthology,,Core matrisome,Collagens,WBGene00000674,col-99,F29C4.8
+Orthology,Basement membrane,Core matrisome,Collagens,WBGene00001263,emb-9,K04H4.1
+Orthology,Basement membrane,Core matrisome,Collagens,WBGene00002280,let-2,F01G12.5
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00018304,agr-1,F41G3.12
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00007170,B0393.5,B0393.5
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00015841,C16C8.2,C16C8.2
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00015865,C16E9.1,C16E9.1
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00015993,C18H7.1,C18H7.1
+Gene Ontology,,Core matrisome,ECM Glycoproteins,WBGene00000998 ,dig-1 ,K07E12.1 
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00001328,epi-1,K08C7.3
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00009158,F26E4.3,F26E4.3
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00009162,F26E4.7,F26E4.7
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00009257,F29G6.1,F29G6.1
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00017968,skpo-3,F32A5.2
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00018547,clec-78,F47C12.2
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00009897,F49E12.1,F49E12.1
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00004130,ketn-1,F54E2.3
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00001403,fbl-1,F56H11.1
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00001863,him-4,F15G9.4
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00002247,lam-1,W03F8.5
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00016913,lam-2,C54D1.5
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00002248,lam-3,T22A3.8
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00009671,mfap-1,F43G9.10
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00003242,mig-6,C37C3.6
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00003482,mua-3,K08E5.3
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00003738,nid-1,F54F3.1
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00003893,ost-1,C44B12.2
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00004256,pxn-1,ZK994.3
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00004257,pxn-2,K09C8.5
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00013971,scl-19,ZK384.1
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00004854,slt-1,F40E10.4
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00006893,spon-1,F10E7.4
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00011330,T01D3.6,T01D3.6
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00011437,T04F3.2,T04F3.2
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00020581,T19D12.6,T19D12.6
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00006845,unc-122,F11C3.2
+Orthology,Basement membrane,Core matrisome,ECM Glycoproteins,WBGene00006746,unc-6,F41C6.1
+Orthology,,Core matrisome,ECM Glycoproteins,WBGene00020954,W02G9.4,W02G9.4
+Orthology,,Core matrisome,Proteoglycans,WBGene00020693,lron-8,T22E7.1
+Orthology,,Core matrisome,Proteoglycans,WBGene00016918,test-1,C54E4.2
+Orthology,Basement membrane,Core matrisome,Proteoglycans,WBGene00006787,unc-52,ZC101.2
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00000039,acn-1,C42D8.5
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000074,adm-2,C04A11.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000075,adm-4,ZK154.7
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00000082,adt-1,C02B4.1
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00000083,adt-2,F08C6.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000216,asp-3,H22K11.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000217,asp-4,R12H7.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00007462,C08H9.1,C08H9.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00015915,C17G10.1,C17G10.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00008304,C54D10.10,C54D10.10
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00011923,chhy-1,T22C8.2
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00016642,chil-10,C44C1.2
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00019980,chil-14,R09B5.12
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00000503,cht-1,C04F6.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000535,cpi-1,K08B4.6
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000534,cpi-2,R01B10.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000776,cpl-1,T03E6.7
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000781,cpr-1,C52E4.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000782,cpr-2,F36D3.9
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000783,cpr-3,T10H4.12
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000784,cpr-4,F44C4.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000785,cpr-5,W07B8.5
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000786,cpr-6,C25B8.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000788,cpz-1,F32B5.8
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00000789,cpz-2,M04G12.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00019478,cri-2,K07C11.5
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00001077,dpy-18,Y47D3B.10
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00001178,egl-9,F22E12.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00008741,F13D12.6,F13D12.6
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00008861,F15D4.4,F15D4.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00017865,F27D9.7,F27D9.7
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00017937,F30H5.3,F30H5.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00017969,F32A5.3,F32A5.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00009347,F32H5.1,F32H5.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00009384,F35B12.4,F35B12.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00018271,F41C3.5,F41C3.5
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00010204,F57F5.1,F57F5.1
+Orthology,Basement membrane,Matrisome-associated,ECM Regulators,WBGene00001650,gon-1,F25H8.3
+Gene Ontology,,Matrisome-associated,ECM Regulators,WBGene00002003 ,hse-5 ,B0285.5 
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00019605,ctsa-1,K10B2.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00019617,K10C2.1,K10C2.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00010738,K10D3.4,K10D3.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00002497,let-268,F52H3.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00022129,lron-11,Y71F9B.8
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00009958,madd-4,F53B6.2
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00012186,mlt-11,W01F3.3
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00016700,perl-1,C46A5.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00022743,mlt-7,ZK430.8
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003520,nas-1,F45G2.1
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00003529,nas-10,K09C8.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003531,nas-12,C24F3.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003532,nas-13,F39D8.4
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00003533,nas-14,F09E8.6
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00003534,nas-15,T04G9.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003521,nas-2,F56A4.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003522,nas-3,K06A4.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003555,nas-39,F38E9.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003523,nas-4,C05D11.6
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003524,nas-5,T23H4.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003525,nas-6,4R79.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003526,nas-7,C07D10.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00003527,nas-8,C34D4.9
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00004025,phy-2,F35G2.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00019986,R09F10.1,R09F10.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005642,srp-1,C05E4.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005643,srp-2,C05E4.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005644,srp-3,Y32G9A.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005647,srp-6,C03G6.19
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005648,srp-7,F20D6.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00005649,srp-8,F20D6.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00006308,sul-1,K09C4.8
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00006324,sup-17,DY3.7
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00011235,suro-1,R11A5.7
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00020567,T19D2.1,T19D2.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00020651,T21D12.12,T21D12.12
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00020702,T22F7.3,T22F7.3
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00007055,tag-196,F41E6.6
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00016423,tag-275,C34H3.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00009386,tag-290,F35B12.6
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00013969,tep-1,ZK337.1
+Literature Curation,,Matrisome-associated,ECM Regulators,WBGene00019476 ,timp-1,K07C11.3 
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00006619,try-1,ZK546.15
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00006621,try-3,C43G2.5
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00006804,unc-71,Y37D8A.13
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00012271,W05B2.2,W05B2.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00021070,cpr-8,W07B8.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00021072,W07B8.4,W07B8.4
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00012445,Y16B4A.2,Y16B4A.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00021503,Y40D12A.2,Y40D12A.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00021939,Y55F3BR.2,Y55F3BR.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00022026,Y65B4A.2,Y65B4A.2
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00013846,ZC84.1,ZC84.1
+Orthology,,Matrisome-associated,ECM Regulators,WBGene00013849,ZC84.6,ZC84.6
+Orthology,Basement membrane,Matrisome-associated,ECM Regulators,WBGene00006987,zmp-1,EGAP1.3
+Gene Ontology,,Matrisome-associated,ECM Regulators,WBGene00019212 ,zmp-2 ,H19M22.3 
+Gene Ontology,,Matrisome-associated,ECM Regulators,WBGene00016283 ,zmp-3 ,C31B8.8
+Gene Ontology,,Matrisome-associated,ECM Regulators,WBGene00010423 ,zmp-5 ,H36L18.1 
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00000149,apl-1,C42D8.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007284,C03H12.1,C03H12.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016499,C37C3.7,C37C3.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016751,C48E7.6,C48E7.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008284,C53D6.7,C53D6.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017772,clec-1,F25B4.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00015403,clec-10,C03H5.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013179,clec-100,Y53H1A.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008853,clec-101,F15D3.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009359,clec-102,F33E2.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012036,clec-103,T26E3.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012480,clec-104,Y18D10A.10
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012488,clec-105,Y18D10A.24
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012482,clec-106,Y18D10A.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012502,clec-107,Y26D4A.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012504,clec-108,Y26D4A.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008907,clec-109,F17B5.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008294,clec-11,C54C8.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008909,clec-110,F17B5.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013502,clec-111,Y71A12B.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013503,clec-112,Y71A12B.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009822,clec-113,F47G4.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008190,clec-114,C49A1.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008188,clec-115,C49A1.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010576,clec-116,K04H8.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00015193,clec-117,B0432.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021032,clec-118,W04H10.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018575,clec-119,F47F6.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012103,clec-12,T27F6.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021291,clec-121,Y25C1A.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021290,clec-122,Y25C1A.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021288,clec-123,Y25C1A.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00015909,clec-124,C17F4.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021118,clec-125,W09G10.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021117,clec-126,W09G10.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021138,clec-127,W10G11.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021139,clec-128,W10G11.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021145,clec-129,W10G11.15
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00010399,clec-13,H16D19.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021144,clec-130,W10G11.14
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021143,clec-132,W10G11.13
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021142,clec-133,W10G11.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021141,clec-134,W10G11.11
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00015821,clec-135,C16A11.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018047,clec-136,F35D11.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018048,clec-137,F35D11.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018049,clec-138,F35D11.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018050,clec-139,F35D11.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00020220,clec-140,T05A7.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017139,clec-141,EEED8.11
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010460,clec-142,K01C8.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00014063,clec-143,ZK673.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012086,clec-144,T27D12.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013013,clec-145,Y48E1B.16
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013008,clec-146,Y48E1B.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007313,clec-147,C04H5.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018246,clec-148,F40G9.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00019328,clec-149,K02F3.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00011584,clec-15,T07D10.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019914,clec-150,R06B10.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008659,clec-151,F10F2.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008660,clec-153,F10F2.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017809,clec-156,F26A1.11
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017810,clec-157,F26A1.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00020067,clec-158,R13F6.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017322,clec-160,F09G8.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00010228,clec-161,F58A4.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007399,clec-162,C07A9.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012661,clec-163,Y39A1B.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021949,clec-164,Y55F3C.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009523,clec-165,F38A1.10
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009518,clec-166,F38A1.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009517,clec-167,F38A1.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009520,clec-168,F38A1.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009526,clec-169,F38A1.14
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008477,clec-17,E03H4.10
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009515,clec-170,F38A1.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00022312,clec-171,Y77E11A.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044719,clec-172,K03H6.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044469,clec-173,T26C12.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021580,clec-174,Y46C8AL.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019950,clec-175,R08C7.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017110,clec-176,E03H12.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017109,clec-177,E03H12.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00020585,clec-178,T19E7.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00016597,clec-179,C42D4.11
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00010169,clec-18,F56H6.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017991,clec-180,F32E10.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044511,clec-181,Y59H11AR.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007897,clec-182,C33D9.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00011855,clec-183,T20D3.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00023502,clec-184,F08G5.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007729,clec-185,C25G4.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00014138,clec-186,ZK896.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00014137,clec-187,ZK896.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010954,clec-189,M199.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00018105,clec-19,F36H5.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010953,clec-190,M199.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009538,clec-191,F38C2.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013774,clec-193,Y116A8A.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013778,clec-194,Y116A8A.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013798,clec-195,Y116A8C.21
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009156,clec-196,F26D10.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008202,clec-197,C49C3.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008203,clec-198,C49C3.13
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007820,clec-199,C30H6.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00015198,clec-2,B0454.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00020328,clec-20,T07H3.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007822,clec-202,C30H6.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021744,clec-203,Y50D4B.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021603,clec-204,Y46H3B.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021602,clec-205,Y46H3B.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019089,clec-206,F59A7.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018096,clec-207,F36F12.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018097,clec-208,F36F12.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021224,clec-209,Y19D10A.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00020327,clec-21,T07H3.4
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00022261,clec-210,Y73C8C.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017603,clec-212,F19F10.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00016815,clec-213,C50E3.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00016813,clec-214,C50E3.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044549,clec-215,C50E3.14
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017822,clec-216,F26D11.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017824,clec-217,F26D11.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00020938,clec-218,W02D7.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00020945,clec-219,W02D7.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009855,clec-22,F49A5.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008916,clec-221,F17C11.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007282,clec-223,C03E10.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044790,clec-224,ZK863.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007152,clec-225,B0365.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00011186,clec-226,R10D12.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008593,clec-227,F08H9.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044086,clec-228,H02K04.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010355,clec-229,H02K04.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007806,clec-230,C29F3.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007805,clec-231,C29F3.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009487,clec-232,F36G9.11
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009030,clec-233,F21H7.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009150,clec-234,F26D2.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013622,clec-238,Y102A5C.17
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013621,clec-239,Y102A5C.16
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009856,clec-24,F49A5.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009905,clec-240,F49H6.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009906,clec-241,F49H6.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013471,clec-242,Y68A4B.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013470,clec-243,Y68A4B.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007851,clec-245,C31G12.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008892,clec-246,F16H6.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013058,clec-247,Y51A2A.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013064,clec-248,Y51A2A.11
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013063,clec-249,Y51A2A.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00044331,clec-25,T20B3.15
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00045364,clec-250,F11D11.14
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008703,clec-251,F11D11.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008702,clec-252,F11D11.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008700,clec-254,F11D11.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00008696,clec-255,F11D11.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00012454,clec-256,Y17D7B.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00044892,clec-257,Y17D7B.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00010928,clec-258,M162.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00011852,clec-26,T20B3.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013357,clec-260,Y60A3A.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013834,clec-261,ZC15.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013831,clec-262,ZC15.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009171,clec-263,F26F2.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009291,clec-264,F31D4.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019738,clec-265,M02F4.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016088,clec-266,C25B8.4
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00013607,clec-27,Y102A5B.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009857,clec-28,F49A5.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012024,clec-29,T25E12.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016577,clec-3,C41H7.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009854,clec-31,F49A5.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009860,clec-32,F49A5.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009859,clec-33,F49A5.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012023,clec-34,T25E12.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00013608,clec-35,Y102A5B.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00044332,clec-36,T20B3.16
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00013609,clec-37,Y102A5B.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012025,clec-38,T25E12.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012022,clec-39,T25E12.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012583,clec-4,Y38E10A.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00011853,clec-40,T20B3.13
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007153,clec-41,B0365.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008891,clec-42,F16H6.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00019917,clec-43,R07C3.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00019928,clec-44,R07C3.12
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00017199,clec-45,F07C4.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00011668,clec-47,T09F5.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007565,clec-48,C14A6.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012251,clec-49,W04E12.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016450,clec-5,C35D10.14
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012253,clec-50,W04E12.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00015050,clec-51,B0218.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00015052,clec-52,B0218.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00020191,clec-53,T03F1.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008596,clec-54,F08H9.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008597,clec-55,F08H9.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008595,clec-56,F08H9.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008594,clec-57,F08H9.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00014043,clec-58,ZK666.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00014045,clec-59,ZK666.5
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016451,clec-6,C35D10.15
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00014046,clec-60,ZK666.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00014047,clec-61,ZK666.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009393,clec-62,F35C5.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009394,clec-63,F35C5.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009395,clec-64,F35C5.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009396,clec-65,F35C5.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00009397,clec-66,F35C5.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018971,clec-67,F56D6.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018970,clec-68,F56D6.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00017364,clec-7,F10G2.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021581,clec-70,Y46C8AL.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021582,clec-71,Y46C8AL.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021583,clec-72,Y46C8AL.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021579,clec-73,Y46C8AL.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021585,clec-74,Y46C8AL.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021586,clec-75,Y46C8AL.9
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021587,clec-76,Y46C8AR.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00018548,clec-79,F47C12.4
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012582,clec-8,Y38E10A.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00043062,clec-80,Y54G2A.39
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021873,clec-82,Y54G2A.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021879,clec-83,Y54G2A.14
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021895,clec-84,Y54G2A.33
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00021872,clec-85,Y54G2A.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00016912,clec-86,C54D1.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007709,clec-87,C25A1.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00019606,clec-88,K10B2.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00015631,clec-89,C09D1.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00013493,clec-9,Y70C5C.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019009,clec-90,F57C9.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00014117,clec-91,ZK858.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013125,clec-92,Y52B11A.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013929,clec-93,ZK39.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013928,clec-94,ZK39.3
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013927,clec-95,ZK39.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013930,clec-96,ZK39.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013931,clec-97,ZK39.6
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013932,clec-98,ZK39.7
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00013933,clec-99,ZK39.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00000583,cof-2,C48E7.5
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00007103,crm-1,B0024.14
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00001068,dpy-6,F16F9.2
+Gene Ontology,,Matrisome-associated,ECM-affiliated,WBGene00018330 ,elks-1 ,F42A6.9 
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00008624,F09E8.2,F09E8.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00009389,F35B12.10,F35B12.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00018692,F52E1.2,F52E1.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00022816,fbn-1,ZK783.1
+Orthology,Basement membrane,Matrisome-associated,ECM-affiliated,WBGene00001687,gpn-1,F59D12.4
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00019146,H02F09.3,H02F09.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002070,ile-1,K07A1.8
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00002181,kal-1,K03D10.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002264,lec-1,W09H1.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002273,lec-10,W01A11.4
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00017080,lec-12,DC2.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002265,lec-2,F52H3.7
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002266,lec-3,ZK892.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002267,lec-4,C44F1.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002268,lec-5,ZK1248.16
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002269,lec-6,Y55B1AR.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002270,lec-7,R07B1.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002271,lec-8,R07B1.10
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002272,lec-9,C16H3.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00002915,let-805,H19M22.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003055,lon-1,F48E8.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00019351,lron-7,K03A1.2
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00011971,lron-9,T23G11.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003111,mab-20,Y71G12B.20
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00003165,mec-1,T07H8.4
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00003173,mec-9,C50H2.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003497,mup-4,K07D8.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003588,nex-1,ZC155.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003589,nex-2,T07C4.9
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003590,nex-3,C28A5.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00003591,nex-4,C37H5.1
+Literature Curation,,Matrisome-associated,ECM-affiliated,WBGene00003915,pan-1,M88.6
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00004047,plx-1,Y55F3AL.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00004048,plx-2,K04B12.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00007982,pxd-1,C36E8.3
+Orthology,Basement membrane,Matrisome-associated,ECM-affiliated,WBGene00004749,sdn-1,F57C7.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00004889,smp-1,Y54E5B.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00004890,smp-2,D1037.2
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00011454,lron-14,T05A1.3
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00020516,T15B7.1,T15B7.1
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00013487,egas-2,Y69H2.12
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00012621,Y38H6C.8,Y38H6C.8
+Orthology,,Matrisome-associated,ECM-affiliated,WBGene00022536,ZC178.2,ZC178.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00016769,C49C8.5,C49C8.5
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00000415,ced-1,Y47H9C.4
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00000857,cwn-1,K10B4.6
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00000858,cwn-2,W01B6.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00017013,ensh-1,D1009.3
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00008396,D1086.9,D1086.9
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00000903,daf-7,B0412.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00000936,dbl-1,T25F10.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00001188,egl-20,W08D2.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00008779,F14B4.1,F14B4.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00009058,F22E12.1,F22E12.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00044201,H39E23.3,H39E23.3
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00001827,hcf-1,C46A5.9
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00010488,K02A11.3,K02A11.3
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00002881,let-756,C05D11.4
+Gene Ontology,,Matrisome-associated,Secreted Factors,WBGene00003029 ,lin-44 ,E01A2.3 
+Literature Curation,,Matrisome-associated,Secreted Factors,WBGene00016974,lron-15,C56E6.6
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00003395,mom-2,F38E1.7
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00003404,mpz-1,C52A11.4
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00004249,pvf-1,Y39A3CL.6
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00004264,qua-1,T05C12.10
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00020017,R12A1.3,R12A1.3
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00022242,sfrp-1,Y73B6BL.21
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006432,tag-53,F33C8.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006570,tig-2,F39G3.8
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00021594,tig-3,Y46E12BL.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006852,unc-129,C53D6.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00020908,VC5.2,VC5.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006947,wrt-1,ZK1290.12
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006948,wrt-2,F52E4.6
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006950,wrt-4,ZK678.5
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006952,wrt-6,ZK377.1
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006953,wrt-7,ZK1037.10
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006954,wrt-8,C29F3.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00006955,wrt-9,B0344.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00012782,Y43C5A.2,Y43C5A.2
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00012814,Y43F8B.3,Y43F8B.3
+Orthology,,Matrisome-associated,Secreted Factors,WBGene00013416,Y64G10A.7,Y64G10A.7
+Presence of collagen domains (IPR008160 and/or IPR002486),Mantle around touch neurons,Nematode-specific core matrisome,Collagens,WBGene00003169 ,mec-5 ,E03G2.3 
+Presence of collagen domains (IPR008160 and/or IPR002486),,Nematode-specific core matrisome,Collagens,WBGene00004398 ,rol-8 ,ZK1290.3 
+Orthology,,Nematode-specific core matrisome,Collagens,WBGene00000708,col-135,M199.5
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Collagens,WBGene00000632 ,col-55 ,T05E7.2 
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00000851 ,cut-1 ,C47G2.1 
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00009983,cut-2,F53F1.5
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00009041,cut-3,F22B5.3
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00008482,cut-4,E04D5.3
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00011104,cut-5,R07E3.3
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00000853,cut-6,M142.2
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00015231,cutl-14,B0511.5
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00022533,cutl-19,ZC155.5
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00013145,cutl-2,Y53C12B.6
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00018787,cutl-20,F54A5.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00021343,cutl-23,Y37B11A.1
+Literature Curation,Cuticle,Nematode-specific core matrisome,Cuticlins,WBGene00001063,dpy-1,M01E10
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000251,bli-1,C09G5.6
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000252 ,bli-2 ,F59E12.12 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000256 ,bli-6 ,Y73B6BL.34 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000599,col-10,B0222.8
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000675 ,col-101 ,K02D7.3 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000676,col-102,C18H7.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000677 ,col-103 ,F56B3.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000678,col-104,F58F6.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000679 ,col-105 ,F58F6.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000680,col-106,Y77E11A.15
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000681,col-107,C34H4.4
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000682 ,col-108 ,Y41D4A.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000683 ,col-109 ,Y38C1BA.3 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000684 ,col-110 ,F19C7.7 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000685,col-111,F29B9.9
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000687,col-113,C34D4.15
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000688 ,col-114 ,D2024.8 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000689 ,col-115 ,Y42H9B.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000690,col-116,F17E9.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000691 ,col-117 ,T28C6.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000692,col-118,T11B7.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000693,col-119,C53B4.5
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000601 ,col-12 ,F15H10.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000694 ,col-120 ,Y11D7A.11 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000695 ,col-121 ,F56D5.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000696 ,col-122 ,T05A1.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000697,col-123,W08D2.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000698,col-124,C24F3.6
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000699 ,col-125 ,C29F4.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000700,col-126,F54D1.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000701,col-127,F54D1.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000702 ,col-128 ,F12F6.9 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000703,col-129,M18.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000602 ,col-13 ,F15H10.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000704,col-130,F08G5.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000705,col-131,C39E9.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000706,col-132,C39E9.9
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000707 ,col-133 ,F52B11.4 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000710 ,col-137 ,Y51H4A.9 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000711 ,col-138 ,C52D10.13 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000712 ,col-139 ,F41F3.4 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000603 ,col-14 ,C46A5.3 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000713,col-140,F26F12.1
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000714,col-141,T15B7.5
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000715,col-142,T15B7.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000716,col-143,T15B7.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000717,col-144,B0222.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000718,col-145,B0222.7
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000719,col-146,T06E4.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000720,col-147,T06E4.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000721,col-148,C12D8.8
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000722,col-149,B0024.1
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000723,col-150,B0024.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000724,col-151,AC3.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000725,col-152,F32G8.5
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000726,col-153,F17C11.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000727 ,col-154 ,F55C10.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000728 ,col-155 ,F55C10.3 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000729,col-156,F57B7.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000730 ,col-157 ,T11F9.9 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000731,col-158,D2023.7
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000732 ,col-159 ,F57B1.3 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000733 ,col-160 ,F57B1.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000734,col-161,C50B6.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000735,col-162,Y2H9A.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000736,col-163,F46B3.17
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000737,col-164,T21D9.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000738 ,col-165 ,F14H12.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000739 ,col-166 ,T07H6.3 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000740 ,col-167 ,T10E10.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000741 ,col-168 ,T10E10.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000742 ,col-169 ,T10E10.5 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000743 ,col-170 ,T10E10.6 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000744 ,col-171 ,T10E10.7 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000745 ,col-172 ,F38B6.5 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000746 ,col-173 ,F41C6.5 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000747 ,col-174 ,F46C8.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000748,col-175,C35B8.1
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000749,col-176,ZC373.7
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000750 ,col-177 ,F59F3.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000751 ,col-178 ,C34F6.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000752 ,col-179 ,C34F6.3 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000753 ,col-180 ,C44C10.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000754 ,col-181 ,W03G11.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000755,col-182,R09A8.4
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000756 ,col-183 ,F02D10.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000757,col-184,F15A2.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000758 ,col-185 ,H06A10.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000759 ,col-186 ,E03G2.4 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000760 ,col-187 ,C30F2.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000608,col-19,ZK1193.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000593 ,col-2 ,W01B6.7 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000609 ,col-20 ,F11G11.11 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000610 ,col-33 ,F36A4.6 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000611 ,col-34 ,F36A4.10 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000612,col-35,C15A11.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000613 ,col-36 ,C27H5.5 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000614,col-37,ZK863.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000615,col-38,F54C9.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000616,col-39,C09G5.4
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000617 ,col-40 ,T13B5.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000618,col-41,T10B10.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00013489 ,col-42 ,Y69H2.14 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000620 ,col-43 ,ZC513.8 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000621 ,col-44 ,F54B11.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000622 ,col-45 ,F53G12.7 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000623 ,col-46 ,Y18H1A.13 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000624 ,col-47 ,Y18H1A.12 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000625 ,col-48 ,Y54E10BL.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000626,col-49,K09H9.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000627,col-50,T28F2.6
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000628 ,col-51 ,T28F2.8 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000629 ,col-52 ,D1007.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000630 ,col-53 ,M01A12.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000631,col-54,F33D11.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000633 ,col-56 ,T08B2.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000634,col-58,F26B1.4
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000636,col-60,F22D6.10
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000637,col-61,C01H6.1
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000638,col-62,C15A11.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000639,col-63,ZK265.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000640,col-64,F52F12.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000641,col-65,K08C9.4
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000644 ,col-68 ,C50D2.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000645,col-69,K01A2.7
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000596,col-7,C15A11.5
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000647,col-71,Y49F6B.10
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000648 ,col-72 ,W09G10.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000649 ,col-73 ,F11G11.12 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000650,col-74,ZK1248.2
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000651,col-75,K03H9.2
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000652 ,col-76 ,M110.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000653 ,col-77 ,M195.1 
+Gene Ontology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000654 ,col-78 ,W07A12.5 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000655,col-79,C09G5.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000597,col-8,F11H8.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000656,col-80,C09G5.5
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000657 ,col-81 ,F38A3.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000658 ,col-83 ,F33A8.9 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000659,col-84,K12D12.3
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000660 ,col-85 ,T21B4.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000661,col-86,Y81G3A.5
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000662 ,col-87 ,Y39G8C.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000663,col-88,W05G11.3
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000664,col-89,F17C8.2
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000598 ,col-9 ,F54B11.1 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000665,col-90,C29E4.1
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000666,col-91,F09G8.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000667,col-92,W05B2.6
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000668,col-93,W05B2.5
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000669,col-94,W05B2.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000670 ,col-95 ,Y41C4A.16 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000671,col-96,Y41C4A.19
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000672 ,col-97 ,ZK1010.7 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00000673 ,col-98 ,F14F7.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001072 ,dpy-10 ,T14B4.7 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001074,dpy-13,F30B5.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001075 ,dpy-14 ,H27M09.4 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001076,dpy-17,F54D8.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001064 ,dpy-2 ,T14B4.6 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001065,dpy-3,EGAP7.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001066 ,dpy-4 ,Y41E3.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001067,dpy-5,F27C1.8
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001069,dpy-7,F46C8.6
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001070 ,dpy-8 ,C31H2.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00001071 ,dpy-9 ,T21D12.2 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00003057,lon-3,ZK836.1
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00004300 ,ram-2 ,F38A3.2 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00004394 ,rol-1 ,Y57A10A.11 
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00004397,rol-6,T01B7.7
+Orthology,Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00005016,sqt-1,B0491.2
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00005017 ,sqt-2 ,C01B12.1 
+Presence of collagen domains (IPR008160 and/or IPR002486),Cuticle,Nematode-specific core matrisome,Cuticular Collagens,WBGene00005018 ,sqt-3 ,F23H12.4 
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00000465,cpg-1,C07G2.1
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00015102,cpg-2,B0280.5
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00011063,cpg-3,R06C7.4
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00015677,cpg-4,C10F3.1
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00010723,cpg-7,K09E4.6
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00019357,cpg-8,K03B4.7
+Literature Curation,,Nematode-specific core matrisome,Proteoglycans,WBGene00022072,cpg-9,Y67D8C.8
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00000255,bli-5,F45G2.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00006592,dpy-31,R151.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00001828,hch-1,F40E10.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00022504,mam-1,ZC13.3
+Gene Ontology,Basement membrane,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003248 ,mig-17 ,F57B7.4 
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00008605,mlt-9,F09B12.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003530,nas-11,K11G12.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003535,nas-16,K03B8.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003536,nas-17,K03B8.2
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003537,nas-18,K03B8.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003538,nas-19,K03B8.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003539,nas-20,T11F9.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003540,nas-21,T11F9.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003541,nas-22,T11F9.6
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003542,nas-23,R10H1.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003543,nas-24,F20G2.4
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003544,nas-25,F46C5.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003545,nas-27,T23F4.4
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003546,nas-28,F42A10.8
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003547,nas-29,F58A6.4
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003548,nas-30,Y95B8A.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003549,nas-31,F58B4.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003550,nas-32,T02B11.7
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003551,nas-33,K04E7.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003552,nas-36,C26C6.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003553,nas-37,C17G1.6
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003554,nas-38,F57C12.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00003528 ,nas-9,C37H5.9
+Literature Curation,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00006591,toh-1,T24A11.3
+Gene Ontology,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00012364 ,zmp-4 ,W09D12.1 
+Gene Ontology,,Nematode-specific matrisome-associated,ECM Regulators,WBGene00020646 ,zmp-6 ,T21D11.1 
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00007283,clec-222,C03E10.6
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00001123,dyf-7,C43C3.3
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00001466,flr-2,F58H1.4
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00013923,ghi-1,ZK20.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00002976,lev-9,T07H6.5
+Presence of ECM or ECM-affiliated domain (Glypican IPR001863),Basement membrane,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00003056,lon-2,C39E6.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00016422,noah-1,C34G6.6
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00009926,noah-2,F52B11.3
+Presence of ECM or ECM-affiliated domain (Galectin IPR001079),,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00004165,pqn-84,Y41C4A.5
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00011522,srap-1,T06D8.1
+Literature Curation,,Nematode-specific matrisome-associated,ECM-affiliated,WBGene00021171,Y8A9A.2,Y8A9A.2
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00016048,C24B9.3,C24B9.3
+Gene Ontology,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00019285 ,cbn-1 ,K01A2.11 
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00001159,eff-1,C26D10.5
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00002827,let-653,C29E6.1
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00013352,lon-8,Y59A8B.20
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00002393,lpr-1,Y65B4BR.2
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00011726,lpr-2,T12A7.5
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00012261,lpr-3,W04G3.8
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00012257,lpr-4,W04G3.3
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00012256,lpr-5,W04G3.2
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00003249,mig-18,F11F1.6
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00021095,mlt-8,W08F4.6
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00006366,sym-1,C44H4.3
+Literature Curation,,Nematode-specific matrisome-associated,Secreted Factors,WBGene00020554,T19A5.3,T19A5.3
+EwaldLab added/Literature Curation,,Adhesion,AdhesionReceptorsToECM,WBGene00006876,vab-10,ZK1151.1
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00002081,ina-1,F54G8.3
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00003929,pat-2,F54F2.1
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00003930,pat-3,ZK1058.2
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00000961,dgn-1,T21B6.1
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00018943,dgn-2,F56C3.6
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00017221,dgn-3,F07G6.1
+EwaldLab added/Literature Curation,,Adhesion,AdhesionReceptorsToECM,WBGene00019987,R09F10.3,R09F10.3
+EwaldLab added/Literature Curation,,Adhesion,AdhesionReceptorsToECM,WBGene00006498,ten-1,R13F6.4
+EwaldLab added/Literature Curation,,Adhesion,AdhesionReceptorsToECM,WBGene00016104,ddr-1,C25F6.4
+EwaldLab added/Literature Curation,,Adhesion,AdhesionReceptorsToECM,WBGene00017381,ddr-2,F11D5.3
+EwaldLab added/Literature Curation,Basement membrane,Adhesion,AdhesionReceptorsToECM,WBGene00004215,ptp-3,C09D8.1
+Orthology,,Adhesion,AdhesionSignalling,WBGene00006836,unc-112,C47E8.7
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00012889,Y45F10D.10,Y45F10D.10
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00016197,pxl-1,C28H8.6
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00010556,rack-1,K04D7.1
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00006771,tln-1,Y71G12B.11
+Orthology,,Adhesion,AdhesionSignalling,WBGene00006508,tns-1,M01E11.7
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00000942,deb-1,ZC477.9
+Orthology,,Adhesion,AdhesionSignalling,WBGene00012891,sorb-1,Y45F10D.13
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00003931,pat-4,C29F9.7
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00003932,pat-6,T21D12.4
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00006826,unc-97,F14D12.2
+Orthology,,Adhesion,AdhesionSignalling,WBGene00001333,erm-1,C01G8.5
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00004357,rho-1,Y51H4A.3
+Orthology,,Adhesion,AdhesionSignalling,WBGene00004030,pin-2,F07C6.1
+Orthology,,Adhesion,AdhesionSignalling,WBGene00012889,icap-1,Y45F10D.10
+Orthology,,Adhesion,AdhesionSignalling,WBGene00002213,kin-32,C30F8.4
+EwaldLab added/Literature Curation,,Adhesion,AdhesionSignalling,WBGene00002694,let-502,C10H11.9
